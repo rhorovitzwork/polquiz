@@ -50,8 +50,8 @@ questions =  [
 
     {"id": 25, "question": "All economic entities should serve the intrest of the society as a whole.", "effects": {"right": -1}},
 
-    {"id": 31, "question": "An individual's body is their own property, and they should be able to do anything they desire to it.", "effects": {"prog": 1}},
+    {"id": 26, "question": "An individual's body is their own property, and they should be able to do anything they desire to it.", "effects": {"prog": 1}},
 
-    {"id": 45, "question": "Multiculturalism is bad.", "effects": {"prog": -1}}
+    {"id": 27, "question": "Multiculturalism is bad.", "effects": {"prog": -1}}
 
 ];

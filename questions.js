@@ -25,5 +25,5 @@ questions =  [
     {"id": 24, "question": "If everyone only thought about themselves, everyone would do well.", "effects": {"right": -1}},
     {"id": 25, "question": "All economic entities should serve the intrest of the society as a whole.", "effects": {"right": -1}},
 {"id": 26, "question": "I would sacrifice other people's lives to save my own.", "effects": {"right": 1}},
-    {"id": 27, "question": "There is no "society", only individuals.", "effects": {"right": 1}}
+    {"id": 27, "question": "There is no \"society\", only individuals.", "effects": {"right": 1}}
 ];

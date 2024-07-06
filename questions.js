@@ -11,7 +11,7 @@ questions =  [
     {"id": 10, "question": "I consider myself an egoist.", "effects": {"right": 1}},
     {"id": 11, "question": "Authority corrupts both ruler and ruled ones.", "effects": {"auth": -1}},
     {"id": 12, "question": "The truth is, no one of us can be truly free until everybody is free.", "effects": {"auth": -1}},
-    {"id": 13, "question": "It is in the individual's interest to help others.": {"right": -1}},
+    {"id": 13, "question": "It is in the individual's interest to help others.", "effects": {"right": -1}},
     {"id": 14, "question": "Economic inequality is too high in the world.", "effects": {"auth": -1}},
     {"id": 15, "question": "Wealth accumulation leads to the creation of an oppressive class system.", "effects": {"auth": -1}},
     {"id": 16, "question": "Hierarchies should be dismantled.", "effects": {"auth": -1}},

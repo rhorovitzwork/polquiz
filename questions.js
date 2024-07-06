@@ -8,7 +8,7 @@ questions =  [
     {"id": 7, "question": "Individual goals are more important than group goals.", "effects": {"right": 1}},
     {"id": 8, "question": "Cooperation is more important than independence.", "effects": {"right": -1}},
     {"id": 9, "question": "No individual should ever be required to serve any collective expectation.", "effects": {"right": 1}},
-    {"id": 10, "question": "I consider myself an egoist.", "effects": {"right": 1}},
+    {"id": 10, "question": "I am more important than others.", "effects": {"right": 1}},
     {"id": 11, "question": "Authority corrupts both ruler and ruled ones.", "effects": {"auth": -1}},
     {"id": 12, "question": "The truth is, no one of us can be truly free until everybody is free.", "effects": {"auth": -1}},
     {"id": 13, "question": "It is in the individual's interest to help others.", "effects": {"right": -1}},
@@ -22,8 +22,8 @@ questions =  [
     {"id": 21, "question": "It is foolish to seek to do away with inequalities based on social standing and class.", "effects": {"auth": 1}},
     {"id": 22, "question": "Slavery can be justified if it's productive enough.", "effects": {"auth": 1}},
     {"id": 23, "question": "We should move beyond wage systems.", "effects": {"auth": -1}},
-    {"id": 24, "question": "Helping others out by doing good deeds is its own reward.", "effects": {"right": -1}},
+    {"id": 24, "question": "If everyone only thought about themselves, everyone would do well.", "effects": {"right": -1}},
     {"id": 25, "question": "All economic entities should serve the intrest of the society as a whole.", "effects": {"right": -1}},
-    {"id": 26, "question": "An individual's body is their own property, and they should be able to do anything they desire to it.", "effects": {"prog": 1}},
-    {"id": 27, "question": "Multiculturalism is bad.", "effects": {"prog": -1}}
+{"id": 26, "question": "I would sacrifice other people's lives to save my own.", "effects": {"right": 1}},
+    {"id": 27, "question": "There is no "society", only individuals.", "effects": {"right": 1}}
 ];

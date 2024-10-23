@@ -1,1 +1,1 @@
-SapplyValues is a clone of the Sapply political compass, made to use 8values' UI.
+polquiz is a clone of the SapplyValues political test, reworked to serve as an instructional tool
